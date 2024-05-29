@@ -1,1 +1,1 @@
-# blue_team_notes
+- My notes on defensive security
